@@ -10,7 +10,7 @@ body {
   no-repeat fixed;
 }
 #phone {
-  background: url('imagens/frame-iphone.png') center center/350px 680px no-repeat fixed;
+  background: url('imagens/frame-iphone.png') center center/auto no-repeat fixed;
   position: relative;
   margin: 0;
   padding: 0;
@@ -19,49 +19,49 @@ body {
 }
 section > iframe {
   position: absolute;
-  top: 16.2%;
-  left: 13.9%;
-  width: 301.5px;
-  height: 511.5px;
+  top: 18.7%;
+  left: 17.8%;
+  width: 67.1%;
+  height: 60.6%;
   box-shadow: none;
 }
 a img {
   position: absolute;
-  top: 91%;
+  top: 85%;
   box-shadow: 0 5px 10px #00000050;
-  margin: 20px;
+  margin: 10px;
   width: 40px;
   height: 40px;
   border-radius: 50%;
 }
 #home {
   position: absolute;
-  top: 91%;
+  top: 85%;
   left: 22%;
 }
 #git {
   position: absolute;
-  top: 91%;
+  top: 85%;
   left: 33%;
 }
 #face {
   position: absolute;
-  top: 91%;
+  top: 85%;
   left: 44%;
 }
 #yt {
   position: absolute;
-  top: 91%;
+  top: 85%;
   left: 55%;
 }
 #insta {
   position: absolute;
-  top: 91%;
+  top: 85%;
   left: 66%;
 }
 #x {
   position: absolute;
-  top: 91%;
+  top: 85%;
   left: 77%;
 }
 img:hover {
